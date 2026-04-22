@@ -72,6 +72,9 @@ class Rule(TypedDict):
     severity: str | None
     version: str | None
     message: str | None
+    maturity: int | None
+    accuracy: int | None
+    revision: str | None
     tags: list[str]
 
 
@@ -108,6 +111,9 @@ def extract_rule(
         "severity": None,
         "version": None,
         "message": None,
+        "maturity": None,
+        "accuracy": None,
+        "revision": None,
         "tags": [],
     }
 
@@ -129,6 +135,12 @@ def extract_rule(
             rule["message"] = arg
         elif name == "tag":
             rule["tags"].append(arg)
+        elif name == "maturity" and arg.isdigit():
+            rule["maturity"] = int(arg)
+        elif name == "accuracy" and arg.isdigit():
+            rule["accuracy"] = int(arg)
+        elif name == "rev":
+            rule["revision"] = arg
 
     return rule
 

@@ -7,6 +7,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "CRS is deployed without configuration! Please copy the crs-setup.conf.example template to crs-setup.conf, and include the crs-setup.conf file in your webserver configuration before including the CRS rules. See the INSTALL file in the CRS directory for detailed instructions",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -19,6 +23,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -31,6 +39,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -43,6 +55,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -55,6 +71,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -67,6 +87,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -79,6 +103,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -91,6 +119,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -103,6 +135,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -115,6 +151,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -127,6 +167,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -139,6 +183,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -151,6 +199,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -163,6 +215,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -175,6 +231,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -187,6 +247,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -199,6 +263,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -211,6 +279,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -223,6 +295,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -235,6 +311,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -247,6 +327,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -259,6 +343,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -271,6 +359,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -283,6 +375,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -295,6 +391,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -307,6 +407,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": "Enabling body inspection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -319,6 +423,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": "Enabling forced body inspection for ASCII content",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -331,6 +439,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -343,6 +455,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -355,6 +471,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": "Sampling: Disable the rule engine based on sampling_percentage %{TX.sampling_percentage} and random number %{TX.sampling_rnd100}",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -367,6 +487,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": "Detection paranoia level configured is lower than the paranoia level itself. This is illegal. Blocking request. Aborting",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -379,6 +503,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "application-multi",
       "language-multi",
@@ -395,6 +523,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "application-multi",
       "language-multi",
@@ -411,6 +543,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -423,6 +559,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -435,6 +575,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Method is not allowed by policy",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -454,6 +598,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -466,6 +614,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -478,6 +630,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -490,6 +646,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -502,6 +662,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -514,6 +678,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -526,6 +694,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -538,6 +710,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -550,6 +726,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Found User-Agent associated with security scanner",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -569,6 +749,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -581,6 +765,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -593,6 +781,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -605,6 +797,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -617,6 +813,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -629,6 +829,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -641,6 +845,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -653,6 +861,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -665,6 +877,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Invalid HTTP Request Line",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -684,6 +900,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Attempted multipart/form-data bypass",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -703,6 +923,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Content-Length HTTP header is not numeric",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -722,6 +946,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "GET or HEAD Request with Body Content",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -741,6 +969,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "GET or HEAD Request with Transfer-Encoding",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -760,6 +992,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "POST without Content-Length and Transfer-Encoding headers",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -779,6 +1015,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Content-Length and Transfer-Encoding headers present",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -798,6 +1038,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Range: Invalid Last Byte Value",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -817,6 +1061,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Obsolete Request-Range header detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -836,6 +1084,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Multiple/Conflicting Connection Header Data Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -855,6 +1107,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "UTF8 Encoding Abuse Attack Attempt",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -874,6 +1130,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Unicode Full/Half Width Abuse Attack Attempt",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -894,6 +1154,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Invalid character in request (null character)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -913,6 +1177,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Request Missing a Host Header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -932,6 +1200,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Empty Host Header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -951,6 +1223,10 @@
     "severity": "notice",
     "version": "OWASP_CRS/4.25.0",
     "message": "Request Has an Empty Accept Header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -970,6 +1246,10 @@
     "severity": "notice",
     "version": "OWASP_CRS/4.25.0",
     "message": "Request Has an Empty Accept Header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -989,6 +1269,10 @@
     "severity": "notice",
     "version": "OWASP_CRS/4.25.0",
     "message": "Empty User Agent Header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1008,6 +1292,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Content-Type header missing from request with non-zero Content-Length",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1027,6 +1315,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Host header is a numeric IP address",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1046,6 +1338,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Too many arguments in request",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1065,6 +1361,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Argument name too long",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1084,6 +1384,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Argument value too long",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1103,6 +1407,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Total arguments size exceeded",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1122,6 +1430,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Uploaded file size too large",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1141,6 +1453,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Total uploaded files size too large",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1160,6 +1476,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Illegal Content-Type header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1179,6 +1499,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Request content type is not allowed by policy",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1198,6 +1522,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Request content type charset is not allowed by policy",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1217,6 +1545,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Multiple charsets detected in content type header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1236,6 +1568,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Content-Type header missing from request with body",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1255,6 +1591,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP protocol version is not allowed by policy",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1274,6 +1614,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "URL file extension is restricted by policy",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1293,6 +1637,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Attempt to access a backup or working file",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1312,6 +1660,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP header is restricted by policy (%{MATCHED_VAR})",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1331,6 +1683,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Accept-Encoding header exceeded sensible length",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1350,6 +1706,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Illegal Accept header: charset parameter",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1368,6 +1728,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS",
       "OWASP_CRS/PROTOCOL-ENFORCEMENT"
@@ -1381,6 +1745,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Unicode character bypass detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1400,6 +1768,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Raw (unencoded) fragment in request URI",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1418,6 +1790,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Multiple Content-Type Request Headers",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1436,6 +1812,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -1448,6 +1828,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -1460,6 +1844,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Range: Too many fields (6 or more)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1479,6 +1867,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Range: Too many fields for pdf request (63 or more)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1498,6 +1890,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Multiple URL Encoding Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1517,6 +1913,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Invalid character in request (non printable characters)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1536,6 +1936,10 @@
     "severity": "notice",
     "version": "OWASP_CRS/4.25.0",
     "message": "Missing User Agent Header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1555,6 +1959,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Attempted multipart/form-data bypass",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1574,6 +1982,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP header is restricted by policy (%{MATCHED_VAR})",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1593,6 +2005,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "URL Encoding Abuse Attack Attempt",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1612,6 +2028,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP method override attempt via _method parameter",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1631,6 +2051,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -1643,6 +2067,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -1655,6 +2083,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Invalid character in request (outside of printable chars below ascii 127)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1674,6 +2106,10 @@
     "severity": "notice",
     "version": "OWASP_CRS/4.25.0",
     "message": "Request Missing an Accept Header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1693,6 +2129,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Request header x-up-devcap-post-charset detected in combination with prefix \\'UP\\' to User-Agent",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "language-aspnet",
       "platform-windows",
@@ -1711,6 +2151,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Invalid Cache-Control request header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1731,6 +2175,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Illegal Accept-Encoding header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1750,6 +2198,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -1762,6 +2214,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -1774,6 +2230,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Range: Too many fields for pdf request (6 or more)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 4,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1793,6 +2253,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Invalid character in request (outside of very strict set)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 4,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1812,6 +2276,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Invalid character in request headers (outside of very strict set)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 4,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1831,6 +2299,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Invalid character in request headers (outside of very strict set)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 4,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1850,6 +2322,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Abnormal character escapes in request",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 4,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1869,6 +2345,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -1881,6 +2361,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -1893,6 +2377,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Request Smuggling Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1912,6 +2400,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Response Splitting Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1931,6 +2423,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Response Splitting Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1950,6 +2446,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Header Injection Attack via headers",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1969,6 +2469,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Header Injection Attack via payload (CR/LF detected)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -1988,6 +2492,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Header Injection Attack via payload (CR/LF and header-name detected)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2007,6 +2515,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Splitting (CR/LF in request filename detected)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2026,6 +2538,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "LDAP Injection Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-ldap",
@@ -2044,6 +2560,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Content-Type header: Dangerous content type outside the mime type declaration",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2063,6 +2583,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "mod_proxy attack attempt detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2082,6 +2606,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Old Cookies V1 usage attempt detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2100,6 +2628,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2112,6 +2644,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2124,6 +2660,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Header Injection Attack via payload (CR/LF detected)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2143,6 +2683,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Content-Type header: Dangerous content type outside the mime type declaration",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2162,6 +2706,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2174,6 +2722,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2186,6 +2738,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Range Header detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2205,6 +2761,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2223,6 +2783,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Parameter Pollution (%{MATCHED_VAR_NAME})",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2242,6 +2806,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Parameter Pollution after detecting bogus char after parameter array",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2261,6 +2829,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2273,6 +2845,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2285,6 +2861,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "HTTP Parameter Pollution possible via array notation",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 4,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2304,6 +2884,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Multipart content type global _charset_ definition is not allowed by policy",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2323,6 +2907,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "attack-multipart-header",
       "OWASP_CRS",
@@ -2337,6 +2925,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "attack-multipart-header",
       "OWASP_CRS",
@@ -2351,6 +2943,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Illegal MIME Multipart Header content-type: charset parameter",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2371,6 +2967,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Content-Transfer-Encoding was deprecated by rfc7578 in 2015 and should not be used",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2391,6 +2991,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Multipart header contains characters outside of valid range",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2410,6 +3014,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2422,6 +3030,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2434,6 +3046,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Path Traversal Attack (/../) or (/.../)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2453,6 +3069,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Path Traversal Attack (/../) or (/.../)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2472,6 +3092,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "OS File Access Attempt",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2491,6 +3115,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Restricted File Access Attempt",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2510,6 +3138,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Restricted File Access Attempt: AI Coding Assistant Artifact",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2529,6 +3161,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2541,6 +3177,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2553,6 +3193,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "OS File Access Attempt in REQUEST_HEADERS",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2572,6 +3216,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2584,6 +3232,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2596,6 +3248,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2608,6 +3264,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2620,6 +3280,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2632,6 +3296,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2644,6 +3312,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Remote File Inclusion (RFI) Attack: URL Parameter using IP Address",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2663,6 +3335,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Remote File Inclusion (RFI) Attack: Common RFI Vulnerable Parameter Name used w/URL Payload",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2682,6 +3358,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Remote File Inclusion (RFI) Attack: URL Payload Used w/Trailing Question Mark Character (?)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2701,6 +3381,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2713,6 +3397,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2725,6 +3413,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Remote File Inclusion (RFI) Attack: Off-Domain Reference/Link",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2744,6 +3436,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Remote File Inclusion (RFI) Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -2763,6 +3459,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2775,6 +3475,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2787,6 +3491,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2799,6 +3507,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2811,6 +3523,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2823,6 +3539,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -2835,6 +3555,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Command Injection (2-3 chars)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -2854,6 +3578,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Command Injection (command without evasion)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -2873,6 +3601,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Windows PowerShell Command Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -2893,6 +3625,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Windows Powershell Alias Command Injection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -2912,6 +3648,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Shell Expression Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -2931,6 +3671,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Windows FOR/IF Command Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -2950,6 +3694,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Shell Expression Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -2969,6 +3717,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Brace Expansion Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -2988,6 +3740,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Direct Unix Command Execution",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3007,6 +3763,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Direct Unix Command Execution",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3026,6 +3786,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Direct Unix Command Execution (No Arguments)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3045,6 +3809,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix shell history invocation",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3064,6 +3832,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Shell Code Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3083,6 +3855,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Shellshock (CVE-2014-6271)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3102,6 +3878,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Shellshock (CVE-2014-6271)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3121,6 +3901,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix shell alias invocation",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3140,6 +3924,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Restricted File Upload Attempt",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -3159,6 +3947,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Windows Command Injection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3178,6 +3970,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Windows Command Injection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3197,6 +3993,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -3209,6 +4009,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -3221,6 +4025,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Windows Command Injection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3240,6 +4048,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Command Injection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3259,6 +4071,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Shell Expression Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3278,6 +4094,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "RCE Bypass Technique",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -3297,6 +4117,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "RCE Bypass Technique",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -3316,6 +4140,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "RCE Bypass Technique",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -3335,6 +4163,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "RCE Bypass Technique",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -3354,6 +4186,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Command Injection with pipe",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3373,6 +4209,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Command Injection evasion attempt detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3392,6 +4232,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Brace Expansion Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3411,6 +4255,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: SQLite System Command Execution",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3430,6 +4278,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Shell Expression Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3449,6 +4301,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: SMTP Command Execution",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "platform-multi",
@@ -3467,6 +4323,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: IMAP Command Execution",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "platform-multi",
@@ -3485,6 +4345,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: POP3 Command Execution",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "platform-multi",
@@ -3503,6 +4367,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Command Injection (command without evasion)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3522,6 +4390,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Command Injection found in user-agent or referer header",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3541,6 +4413,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Shell Code Found in REQUEST_HEADERS",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3560,6 +4436,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Shell Fork Bomb",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3579,6 +4459,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -3591,6 +4475,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -3603,6 +4491,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Command Injection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3622,6 +4514,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Shell Code Found in REQUEST_HEADERS",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3641,6 +4537,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix Shell Code Found in REQUEST_HEADERS",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3660,6 +4560,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Wildcard bypass technique attempt",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3679,6 +4583,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Direct Unix Command Execution (No Arguments)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3698,6 +4606,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: SMTP Command Execution",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "platform-multi",
@@ -3716,6 +4628,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: IMAP Command Execution",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "platform-multi",
@@ -3734,6 +4650,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: POP3 Command Execution",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "platform-multi",
@@ -3752,6 +4672,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Unix shell history invocation",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-shell",
@@ -3771,6 +4695,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -3783,6 +4711,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -3795,6 +4727,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -3807,6 +4743,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -3819,6 +4759,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: PHP Open Tag Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -3838,6 +4782,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: PHP Script File Upload Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -3857,6 +4805,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Configuration Directive Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -3876,6 +4828,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Variables Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -3895,6 +4851,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Variable Access Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -3914,6 +4874,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: I/O Stream Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -3933,6 +4897,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Wrapper scheme detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -3952,6 +4920,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: High-Risk PHP Function Name Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -3971,6 +4943,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: High-Risk PHP Function Call Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -3990,6 +4966,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Serialized Object Injection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -4009,6 +4989,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Variable Function Call Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -4028,6 +5012,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Variable Function Call Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -4047,6 +5035,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: PHP Session File Upload Attempt",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -4066,6 +5058,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4078,6 +5074,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4090,6 +5090,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Medium-Risk PHP Function Name Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-php",
@@ -4109,6 +5113,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Medium-Risk PHP Function Name Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-php",
@@ -4128,6 +5136,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Medium-Risk PHP Function Name Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-php",
@@ -4147,6 +5159,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4159,6 +5175,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4171,6 +5191,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Variables Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-php",
@@ -4190,6 +5214,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Low-Value PHP Function Call Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-php",
@@ -4209,6 +5237,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: PHP Script File Upload Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-php",
@@ -4228,6 +5260,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: PHP Closing Tag Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-php",
@@ -4247,6 +5283,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Injection Attack: Variable Function Call Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-php",
@@ -4266,6 +5306,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4278,6 +5322,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4290,6 +5338,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4302,6 +5354,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4314,6 +5370,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Node.js Injection Attack 1/2",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-javascript",
@@ -4335,6 +5395,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Server Side Request Forgery (SSRF) Attack: Cloud provider metadata URL in Parameter",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4354,6 +5418,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Server Side Request Forgery (SSRF) Attack: Scheme-less localhost or internal hostname detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4373,6 +5441,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "JavaScript Prototype Pollution",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-javascript",
@@ -4393,6 +5465,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Ruby Injection Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-ruby",
@@ -4413,6 +5489,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Node.js DoS attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-javascript",
@@ -4433,6 +5513,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP data scheme attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -4452,6 +5536,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4464,6 +5552,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4476,6 +5568,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Node.js Injection Attack 2/2",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-javascript",
@@ -4496,6 +5592,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Server Side Request Forgery (SSRF) Attack: URL Parameter using IP Address",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4515,6 +5615,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Perl Injection Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-perl",
@@ -4535,6 +5639,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SSTI Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "platform-multi",
@@ -4554,6 +5662,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4566,6 +5678,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4578,6 +5694,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4590,6 +5710,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4602,6 +5726,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4614,6 +5742,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -4626,6 +5758,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS",
       "OWASP_CRS/ATTACK-XSS"
@@ -4639,6 +5775,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "XSS Attack Detected via libinjection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4659,6 +5799,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "XSS Filter - Category 1: Script Tag Vector",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4679,6 +5823,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "XSS Filter - Category 2: Event Handler Vector",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4699,6 +5847,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "XSS Filter - Category 3: Attribute Vector",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4719,6 +5871,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "XSS Filter - Category 4: Javascript URI Vector",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4739,6 +5895,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "NoScript XSS InjectionChecker: HTML Injection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4759,6 +5919,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "NoScript XSS InjectionChecker: Attribute Injection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4779,6 +5943,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Node-Validator Deny List Keywords",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4799,6 +5967,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4819,6 +5991,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4839,6 +6015,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Javascript Word Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4859,6 +6039,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4879,6 +6063,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4899,6 +6087,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4919,6 +6111,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4939,6 +6135,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4959,6 +6159,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4979,6 +6183,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -4999,6 +6207,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5019,6 +6231,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5039,6 +6255,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "US-ASCII Malformed Encoding XSS Filter - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5059,6 +6279,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "UTF-7 Encoding IE XSS - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5079,6 +6303,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "JSFuck / Hieroglyphy obfuscation detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5098,6 +6326,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "JavaScript global variable found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5117,6 +6349,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Javascript method detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5137,6 +6373,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "XSS JavaScript function without parentheses",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5156,6 +6396,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -5168,6 +6412,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -5180,6 +6428,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "XSS Attack Detected via libinjection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5200,6 +6452,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "XSS Filter - Category 5: Disallowed HTML Attributes",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5220,6 +6476,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Node-Validator Deny List Keywords",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5240,6 +6500,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible XSS Attack Detected - HTML Tag Handler",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5260,6 +6524,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5280,6 +6548,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "IE XSS Filters - Attack Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5300,6 +6572,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "AngularJS client side template injection detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5319,6 +6595,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -5331,6 +6611,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -5343,6 +6627,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -5355,6 +6643,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -5367,6 +6659,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -5379,6 +6675,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -5391,6 +6691,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack Detected via libinjection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5410,6 +6714,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack: Common DB Names Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5429,6 +6737,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack: SQL function name detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5448,6 +6760,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects blind sqli tests using sleep() or benchmark()",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5467,6 +6783,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects SQL benchmark and sleep injection attempts including conditional queries",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5486,6 +6806,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects MSSQL code execution and information gathering attempts",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5505,6 +6829,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Looking for integer overflow attacks, these are taken from skipfish, except 2.2.2250738585072011e-308 is the \\\"magic number\\\" crash",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5524,6 +6852,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects conditional SQL injection attempts",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5543,6 +6875,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects MySQL charset switch and MSSQL DoS attempts",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5562,6 +6898,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects MATCH AGAINST, MERGE and EXECUTE IMMEDIATE injections",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5581,6 +6921,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Looking for basic sql injection. Common attack string for mysql, oracle and others",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5600,6 +6944,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects Postgres pg_sleep injection, waitfor delay attacks and database shutdown attempts",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5619,6 +6967,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Finds basic MongoDB SQL injection attempts",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5638,6 +6990,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects MySQL and PostgreSQL stored procedure/function injections",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5657,6 +7013,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects MySQL UDF injection and other data/structure manipulation attempts",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5676,6 +7036,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects concatenated basic SQL injection and SQLLFI attempts",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5695,6 +7059,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "MySQL in-line comment detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5714,6 +7082,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Authentication bypass (split query)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5733,6 +7105,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "MySQL Scientific Notation payload detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5752,6 +7128,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "JSON-Based SQL Injection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5771,6 +7151,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -5783,6 +7167,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -5795,6 +7183,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack: SQL Operator Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5814,6 +7206,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack: SQL Boolean-based attack detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5833,6 +7229,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack: SQL Boolean-based attack detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5852,6 +7252,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack: SQL function name detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5871,6 +7275,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects basic SQL authentication bypass attempts 1/3",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5890,6 +7298,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects MySQL comment-/space-obfuscated injections and backtick termination",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5909,6 +7321,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects chained SQL injection attempts 1/2",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5928,6 +7344,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects basic SQL authentication bypass attempts 2/3",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5947,6 +7367,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects MySQL comments, conditions and ch(a)r injections",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5966,6 +7390,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects chained SQL injection attempts 2/2",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -5985,6 +7413,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects classic SQL injection probings 1/3",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6004,6 +7436,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects basic SQL authentication bypass attempts 3/3",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6023,6 +7459,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects basic SQL injection based on keyword alter or union",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6042,6 +7482,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects concatenated basic SQL injection and SQLLFI attempts",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6061,6 +7505,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects classic SQL injection probings 2/3",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6080,6 +7528,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6099,6 +7551,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6118,6 +7574,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6137,6 +7597,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6156,6 +7620,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6175,6 +7643,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6194,6 +7666,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Restricted SQL Character Anomaly Detection (args): # of special characters exceeded (12)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6213,6 +7689,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Comment Sequence Detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6232,6 +7712,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Bin or Hex Encoding Identified",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6251,6 +7735,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQLi bypass attempt by ticks or backticks detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6270,6 +7758,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects basic SQL authentication bypass attempts 4.0/4",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6289,6 +7781,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects basic SQL authentication bypass attempts 4.1/4",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6308,6 +7804,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects basic SQL authentication bypass attempts 4.1/4",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6327,6 +7827,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack Detected via libinjection",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6346,6 +7850,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQL Injection Attack: SQL function name detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6365,6 +7873,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects MySQL and PostgreSQL stored procedure/function injections",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6384,6 +7896,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6396,6 +7912,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6408,6 +7928,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects HAVING injections",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6427,6 +7951,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Detects classic SQL injection probings 3/3",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6446,6 +7974,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Restricted SQL Character Anomaly Detection (cookies): # of special characters exceeded (8)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6465,6 +7997,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Restricted SQL Character Anomaly Detection (args): # of special characters exceeded (6)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6484,6 +8020,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Meta-Character Anomaly Detection Alert - Repetitive Non-Word Characters",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6503,6 +8043,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQLi bypass attempt by ticks detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6522,6 +8066,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SQLi query termination detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6541,6 +8089,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6553,6 +8105,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6565,6 +8121,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Restricted SQL Character Anomaly Detection (cookies): # of special characters exceeded (3)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 4,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6584,6 +8144,10 @@
     "severity": "warning",
     "version": "OWASP_CRS/4.25.0",
     "message": "Restricted SQL Character Anomaly Detection (args): # of special characters exceeded (2)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 4,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6603,6 +8167,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6615,6 +8183,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6627,6 +8199,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Session Fixation Attack: Setting Cookie Values in HTML",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6646,6 +8222,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Session Fixation Attack: SessionID Parameter Name with Off-Domain Referer",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6665,6 +8245,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Possible Session Fixation Attack: SessionID Parameter Name with No Referer",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -6684,6 +8268,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6696,6 +8284,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6708,6 +8300,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6720,6 +8316,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6732,6 +8332,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6744,6 +8348,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6756,6 +8364,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6768,6 +8380,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6780,6 +8396,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Suspicious Java class detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-java",
@@ -6799,6 +8419,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Java process spawn (CVE-2017-9805)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-java",
@@ -6818,6 +8442,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Java serialization (CVE-2015-4852)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-java",
@@ -6837,6 +8465,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Suspicious Java class detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-java",
@@ -6856,6 +8488,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Java Injection Attack: Java Script File Upload Found",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-java",
@@ -6875,6 +8511,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Potential Remote Command Execution: Log4j / Log4shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-java",
@@ -6894,6 +8534,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6906,6 +8550,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -6918,6 +8566,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Potential Remote Command Execution: Log4j / Log4shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-java",
@@ -6937,6 +8589,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Magic bytes Detected, probable java serialization in use",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-java",
@@ -6956,6 +8612,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Magic bytes Detected Base64 Encoded, probable java serialization in use",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-java",
@@ -6975,6 +8635,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Java serialization (CVE-2015-4852)",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-java",
@@ -6994,6 +8658,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Suspicious Java method detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-java",
@@ -7013,6 +8681,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Remote Command Execution: Malicious class-loading payload",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-java",
@@ -7032,6 +8704,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7044,6 +8720,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7056,6 +8736,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Base64 encoded string matched suspicious keyword",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 3,
     "tags": [
       "application-multi",
       "language-java",
@@ -7075,6 +8759,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7087,6 +8775,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7099,6 +8791,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Potential Remote Command Execution: Log4j / Log4shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 4,
     "tags": [
       "application-multi",
       "language-java",
@@ -7118,6 +8814,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7130,6 +8830,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7142,6 +8846,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7154,6 +8862,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7166,6 +8878,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7178,6 +8894,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7190,6 +8910,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7202,6 +8926,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7214,6 +8942,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7226,6 +8958,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7238,6 +8974,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7250,6 +8990,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7262,6 +9006,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7274,6 +9022,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7286,6 +9038,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7298,6 +9054,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7310,6 +9070,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7322,6 +9086,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7334,6 +9102,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": "Inbound Anomaly Score Exceeded in phase 1 (Total Score: %{TX.BLOCKING_INBOUND_ANOMALY_SCORE})",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "anomaly-evaluation",
       "OWASP_CRS"
@@ -7347,6 +9119,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": "Inbound Anomaly Score Exceeded (Total Score: %{TX.BLOCKING_INBOUND_ANOMALY_SCORE})",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "anomaly-evaluation",
       "OWASP_CRS"
@@ -7360,6 +9136,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7372,6 +9152,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7384,6 +9168,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7396,6 +9184,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7408,6 +9200,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7420,6 +9216,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7432,6 +9232,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7444,6 +9248,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7456,6 +9264,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS",
       "OWASP_CRS/DATA-LEAKAGES"
@@ -7469,6 +9281,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS",
       "OWASP_CRS/DATA-LEAKAGES"
@@ -7482,6 +9298,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7494,6 +9314,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7506,6 +9330,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "Directory Listing",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7525,6 +9353,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "CGI source code leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7544,6 +9376,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "ASP.NET exception leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-aspnet",
@@ -7563,6 +9399,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7575,6 +9415,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7587,6 +9431,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "The Application Returned a 500-Level Status Code",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7606,6 +9454,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7618,6 +9470,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7630,6 +9486,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7642,6 +9502,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7654,6 +9518,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS",
       "OWASP_CRS/DATA-LEAKAGES-SQL"
@@ -7667,6 +9535,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7679,6 +9551,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -7691,6 +9567,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7709,6 +9589,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Microsoft Access SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7728,6 +9612,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Oracle SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7747,6 +9635,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "DB2 SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7766,6 +9658,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "EMC SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7785,6 +9681,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "firebird SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7804,6 +9704,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Frontbase SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7823,6 +9727,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "hsqldb SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7842,6 +9750,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "informix SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7861,6 +9773,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "ingres SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7880,6 +9796,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "interbase SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7899,6 +9819,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "maxDB SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7918,6 +9842,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "mssql SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7937,6 +9865,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "mysql SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7956,6 +9888,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "postgres SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7975,6 +9911,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "sqlite SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -7994,6 +9934,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Sybase SQL Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -8013,6 +9957,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8025,6 +9973,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8037,6 +9989,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8049,6 +10005,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8061,6 +10021,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8073,6 +10037,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8085,6 +10053,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS",
       "OWASP_CRS/DATA-LEAKAGES-JAVA"
@@ -8098,6 +10070,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8110,6 +10086,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8122,6 +10102,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "Java Errors",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-java",
@@ -8141,6 +10125,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8153,6 +10141,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8165,6 +10157,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8177,6 +10173,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8189,6 +10189,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8201,6 +10205,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8213,6 +10221,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS",
       "OWASP_CRS/DATA-LEAKAGES-PHP"
@@ -8226,6 +10238,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8238,6 +10254,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8250,6 +10270,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -8269,6 +10293,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP source code leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -8288,6 +10316,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP source code leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-php",
@@ -8307,6 +10339,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8319,6 +10355,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8331,6 +10371,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-php",
@@ -8350,6 +10394,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8362,6 +10410,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8374,6 +10426,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8386,6 +10442,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8398,6 +10458,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS",
       "OWASP_CRS/DATA-LEAKAGES-IIS"
@@ -8411,6 +10475,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8423,6 +10491,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8435,6 +10507,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "Disclosure of IIS install location",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -8455,6 +10531,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "Application Availability Error",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -8475,6 +10555,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "IIS Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -8495,6 +10579,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "IIS Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-multi",
@@ -8515,6 +10603,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8527,6 +10619,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8539,6 +10635,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "Disclosure of IIS install location",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-multi",
@@ -8559,6 +10659,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8571,6 +10675,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8583,6 +10691,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8595,6 +10707,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8607,6 +10723,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS",
       "OWASP_CRS/WEB-SHELLS"
@@ -8620,6 +10740,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8632,6 +10756,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -8644,6 +10772,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PHP Web shell detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8662,6 +10794,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "r57 web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8680,6 +10816,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "WSO web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8698,6 +10838,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "b4tm4n web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8716,6 +10860,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Mini Shell web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8734,6 +10882,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Ashiyane web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8752,6 +10904,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Symlink_Sa web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8770,6 +10926,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "CasuS web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8788,6 +10948,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "GRP WebShell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8806,6 +10970,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "NGHshell web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8824,6 +10992,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SimAttacker web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8842,6 +11014,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Unknown web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8860,6 +11036,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "lama\\'s\\'hell web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8878,6 +11058,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "lostDC web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8896,6 +11080,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Unknown web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8914,6 +11102,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Unknown web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8932,6 +11124,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Ru24PostWebShell web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8950,6 +11146,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "s72 Shell web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8968,6 +11168,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PhpSpy web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -8986,6 +11190,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "g00nshell web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -9004,6 +11212,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "PuNkHoLic shell web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -9022,6 +11234,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "azrail web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -9040,6 +11256,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "SmEvK_PaThAn Shell web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -9058,6 +11278,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "Shell I web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -9076,6 +11300,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "b374k m1n1 web shell",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -9094,6 +11322,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "ASP Web shell detected",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "language-php",
       "platform-multi",
@@ -9112,6 +11344,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9124,6 +11360,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9136,6 +11376,10 @@
     "severity": "critical",
     "version": "OWASP_CRS/4.25.0",
     "message": "webadmin.php file manager",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "language-php",
       "platform-multi",
@@ -9154,6 +11398,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9166,6 +11414,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9178,6 +11430,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9190,6 +11446,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9202,6 +11462,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS",
       "OWASP_CRS/DATA-LEAKAGES-RUBY"
@@ -9215,6 +11479,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9227,6 +11495,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9239,6 +11511,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "RUBY Information Leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 1,
     "tags": [
       "application-multi",
       "language-ruby",
@@ -9258,6 +11534,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9270,6 +11550,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9282,6 +11566,10 @@
     "severity": "error",
     "version": "OWASP_CRS/4.25.0",
     "message": "Ruby source code leakage",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": 2,
     "tags": [
       "application-multi",
       "language-ruby",
@@ -9301,6 +11589,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9313,6 +11605,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9325,6 +11621,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9337,6 +11637,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9349,6 +11653,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9361,6 +11669,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9373,6 +11685,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9385,6 +11701,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9397,6 +11717,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9409,6 +11733,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9421,6 +11749,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9433,6 +11765,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9445,6 +11781,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9457,6 +11797,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9469,6 +11813,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9481,6 +11829,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9493,6 +11845,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9505,6 +11861,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9517,6 +11877,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9529,6 +11893,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9541,6 +11909,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9553,6 +11925,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9565,6 +11941,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": "Outbound Anomaly Score Exceeded in phase 3 (Total Score: %{tx.blocking_outbound_anomaly_score})",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "anomaly-evaluation",
       "OWASP_CRS"
@@ -9578,6 +11958,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": "Outbound Anomaly Score Exceeded (Total Score: %{tx.blocking_outbound_anomaly_score})",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "anomaly-evaluation",
       "OWASP_CRS"
@@ -9591,6 +11975,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9603,6 +11991,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9615,6 +12007,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9627,6 +12023,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9639,6 +12039,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9651,6 +12055,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9663,6 +12071,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9675,6 +12087,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9687,6 +12103,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9699,6 +12119,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9711,6 +12135,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9723,6 +12151,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9735,6 +12167,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9747,6 +12183,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9759,6 +12199,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9771,6 +12215,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9783,6 +12231,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9795,6 +12247,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9807,6 +12263,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9819,6 +12279,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9831,6 +12295,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": "Anomaly Scores: \\\n(Inbound Scores: blocking=%{tx.blocking_inbound_anomaly_score}, detection=%{tx.detection_inbound_anomaly_score}, per_pl=%{tx.inbound_anomaly_score_pl1}-%{tx.inbound_anomaly_score_pl2}-%{tx.inbound_anomaly_score_pl3}-%{tx.inbound_anomaly_score_pl4}, threshold=%{tx.inbound_anomaly_score_threshold}) - \\\n(Outbound Scores: blocking=%{tx.blocking_outbound_anomaly_score}, detection=%{tx.detection_outbound_anomaly_score}, per_pl=%{tx.outbound_anomaly_score_pl1}-%{tx.outbound_anomaly_score_pl2}-%{tx.outbound_anomaly_score_pl3}-%{tx.outbound_anomaly_score_pl4}, threshold=%{tx.outbound_anomaly_score_threshold}) - \\\n(SQLI=%{tx.sql_injection_score}, XSS=%{tx.xss_score}, RFI=%{tx.rfi_score}, LFI=%{tx.lfi_score}, RCE=%{tx.rce_score}, PHPI=%{tx.php_injection_score}, HTTP=%{tx.http_violation_score}, SESS=%{tx.session_fixation_score}, COMBINED_SCORE=%{tx.anomaly_score})",
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "reporting",
       "OWASP_CRS"
@@ -9844,6 +12312,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9856,6 +12328,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9868,6 +12344,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9880,6 +12360,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9892,6 +12376,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9904,6 +12392,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9916,6 +12408,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]
@@ -9928,6 +12424,10 @@
     "severity": null,
     "version": "OWASP_CRS/4.25.0",
     "message": null,
+    "maturity": null,
+    "accuracy": null,
+    "revision": null,
+    "paranoia_level": null,
     "tags": [
       "OWASP_CRS"
     ]

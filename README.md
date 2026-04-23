@@ -17,7 +17,7 @@ Create the target table with the `Join` engine so rules can be looked up by
 `id` via `joinGet` or a `LEFT JOIN`:
 
 ```sql
-CREATE TABLE mod_security_rules
+CREATE TABLE modsecurity_rules
 (
     id UInt64,
     phase String,
@@ -25,6 +25,10 @@ CREATE TABLE mod_security_rules
     severity String,
     version String,
     message String,
+    maturity UInt8,
+    accuracy UInt8,
+    revision String,
+    paranoia_level UInt8,
     tags Array(String),
     raw String,
     generated_id String MATERIALIZED lower(HEX(MD5(version || id)))
@@ -36,5 +40,5 @@ Drop the generated `rules.json` into ClickHouse's user files directory
 (typically `/var/lib/clickhouse/user_files/`) and import:
 
 ```sql
-INSERT INTO mod_security_rules SELECT * FROM file('rules.json');
+INSERT INTO modsecurity_rules SELECT * FROM file('rules.json');
 ```

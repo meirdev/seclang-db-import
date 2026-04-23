@@ -1,6 +1,7 @@
 import argparse
 import json
 import pathlib
+import re
 from typing import Iterator, NotRequired, TypedDict
 
 import msc_pyparser
@@ -75,6 +76,7 @@ class Rule(TypedDict):
     maturity: int | None
     accuracy: int | None
     revision: str | None
+    paranoia_level: int | None
     tags: list[str]
 
 
@@ -96,6 +98,12 @@ def extract_raw(
     return "\n".join(source_lines[start - 1 : end])
 
 
+def extract_paranoia_level(tag: str) -> int | None:
+    match = re.match(r"paranoia-level/(\d+)", tag)
+    if match:
+        return int(match.group(1))
+
+
 def extract_rule(
     config: ConfigLine,
     source_lines: list[str],
@@ -114,6 +122,7 @@ def extract_rule(
         "maturity": None,
         "accuracy": None,
         "revision": None,
+        "paranoia_level": None,
         "tags": [],
     }
 
@@ -135,6 +144,8 @@ def extract_rule(
             rule["message"] = arg
         elif name == "tag":
             rule["tags"].append(arg)
+            if paranoia_level := extract_paranoia_level(arg):
+                rule["paranoia_level"] = paranoia_level
         elif name == "maturity" and arg.isdigit():
             rule["maturity"] = int(arg)
         elif name == "accuracy" and arg.isdigit():

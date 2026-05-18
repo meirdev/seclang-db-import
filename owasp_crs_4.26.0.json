@@ -406,6 +406,7 @@
       "OWASP_CRS"
     ],
     "setvars": {
+      "tx.blocking_inbound_anomaly_score": "0",
       "tx.inbound_anomaly_score_pl1": "0",
       "tx.inbound_anomaly_score_pl2": "0",
       "tx.inbound_anomaly_score_pl3": "0",
@@ -418,6 +419,7 @@
       "tx.php_injection_score": "0",
       "tx.http_violation_score": "0",
       "tx.session_fixation_score": "0",
+      "tx.blocking_outbound_anomaly_score": "0",
       "tx.outbound_anomaly_score_pl1": "0",
       "tx.outbound_anomaly_score_pl2": "0",
       "tx.outbound_anomaly_score_pl3": "0",
@@ -10064,7 +10066,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_inbound_anomaly_score": "+%{tx.inbound_anomaly_score_pl1}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 1\" \\\n    \"id:949152,\\\n    phase:1,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_inbound_anomaly_score=+%{tx.inbound_anomaly_score_pl1}'\"",
@@ -10098,7 +10102,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_inbound_anomaly_score": "+%{tx.inbound_anomaly_score_pl2}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 2\" \\\n    \"id:949153,\\\n    phase:1,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_inbound_anomaly_score=+%{tx.inbound_anomaly_score_pl2}'\"",
@@ -10132,7 +10138,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_inbound_anomaly_score": "+%{tx.inbound_anomaly_score_pl3}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 3\" \\\n    \"id:949154,\\\n    phase:1,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_inbound_anomaly_score=+%{tx.inbound_anomaly_score_pl3}'\"",
@@ -10166,7 +10174,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_inbound_anomaly_score": "+%{tx.inbound_anomaly_score_pl4}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 4\" \\\n    \"id:949155,\\\n    phase:1,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_inbound_anomaly_score=+%{tx.inbound_anomaly_score_pl4}'\"",
@@ -10200,7 +10210,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_inbound_anomaly_score": "0"
+    }
   },
   {
     "raw": "SecAction \\\n    \"id:949159,\\\n    phase:2,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_inbound_anomaly_score=0'\"",
@@ -10234,7 +10246,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_inbound_anomaly_score": "+%{tx.inbound_anomaly_score_pl1}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 1\" \\\n    \"id:949160,\\\n    phase:2,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_inbound_anomaly_score=+%{tx.inbound_anomaly_score_pl1}'\"",
@@ -10268,7 +10282,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_inbound_anomaly_score": "+%{tx.inbound_anomaly_score_pl2}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 2\" \\\n    \"id:949161,\\\n    phase:2,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_inbound_anomaly_score=+%{tx.inbound_anomaly_score_pl2}'\"",
@@ -10302,7 +10318,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_inbound_anomaly_score": "+%{tx.inbound_anomaly_score_pl3}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 3\" \\\n    \"id:949162,\\\n    phase:2,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_inbound_anomaly_score=+%{tx.inbound_anomaly_score_pl3}'\"",
@@ -10336,7 +10354,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_inbound_anomaly_score": "+%{tx.inbound_anomaly_score_pl4}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 4\" \\\n    \"id:949163,\\\n    phase:2,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_inbound_anomaly_score=+%{tx.inbound_anomaly_score_pl4}'\"",
@@ -13189,7 +13209,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_outbound_anomaly_score": "+%{tx.outbound_anomaly_score_pl1}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 1\" \\\n    \"id:959152,\\\n    phase:3,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_outbound_anomaly_score=+%{tx.outbound_anomaly_score_pl1}'\"",
@@ -13223,7 +13245,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_outbound_anomaly_score": "+%{tx.outbound_anomaly_score_pl2}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 2\" \\\n    \"id:959153,\\\n    phase:3,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_outbound_anomaly_score=+%{tx.outbound_anomaly_score_pl2}'\"",
@@ -13257,7 +13281,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_outbound_anomaly_score": "+%{tx.outbound_anomaly_score_pl3}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 3\" \\\n    \"id:959154,\\\n    phase:3,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_outbound_anomaly_score=+%{tx.outbound_anomaly_score_pl3}'\"",
@@ -13291,7 +13317,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_outbound_anomaly_score": "+%{tx.outbound_anomaly_score_pl4}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 4\" \\\n    \"id:959155,\\\n    phase:3,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_outbound_anomaly_score=+%{tx.outbound_anomaly_score_pl4}'\"",
@@ -13325,7 +13353,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_outbound_anomaly_score": "0"
+    }
   },
   {
     "raw": "SecAction \\\n    \"id:959159,\\\n    phase:4,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_outbound_anomaly_score=0'\"",
@@ -13359,7 +13389,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_outbound_anomaly_score": "+%{tx.outbound_anomaly_score_pl1}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 1\" \\\n    \"id:959160,\\\n    phase:4,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_outbound_anomaly_score=+%{tx.outbound_anomaly_score_pl1}'\"",
@@ -13393,7 +13425,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_outbound_anomaly_score": "+%{tx.outbound_anomaly_score_pl2}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 2\" \\\n    \"id:959161,\\\n    phase:4,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_outbound_anomaly_score=+%{tx.outbound_anomaly_score_pl2}'\"",
@@ -13427,7 +13461,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_outbound_anomaly_score": "+%{tx.outbound_anomaly_score_pl3}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 3\" \\\n    \"id:959162,\\\n    phase:4,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_outbound_anomaly_score=+%{tx.outbound_anomaly_score_pl3}'\"",
@@ -13461,7 +13497,9 @@
     "tags": [
       "OWASP_CRS"
     ],
-    "setvars": {}
+    "setvars": {
+      "tx.blocking_outbound_anomaly_score": "+%{tx.outbound_anomaly_score_pl4}"
+    }
   },
   {
     "raw": "SecRule TX:DETECTION_PARANOIA_LEVEL \"@ge 4\" \\\n    \"id:959163,\\\n    phase:4,\\\n    pass,\\\n    t:none,\\\n    nolog,\\\n    tag:'OWASP_CRS',\\\n    ver:'OWASP_CRS/4.26.0',\\\n    setvar:'tx.detection_outbound_anomaly_score=+%{tx.outbound_anomaly_score_pl4}'\"",

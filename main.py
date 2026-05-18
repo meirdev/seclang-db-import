@@ -23,6 +23,8 @@ CRS_SCORE_VARS = {
     "tx.php_injection_score",
     "tx.http_violation_score",
     "tx.session_fixation_score",
+    "tx.blocking_outbound_anomaly_score",
+    "tx.blocking_inbound_anomaly_score",
 }
 
 DISRUPTIVE_ACTIONS = {

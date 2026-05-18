@@ -30,6 +30,7 @@ CREATE TABLE modsecurity_rules
     revision String,
     paranoia_level UInt8,
     tags Array(String),
+    setvars Map(String, String),
     raw String,
     generated_id String MATERIALIZED lower(HEX(MD5(version || id)))
 )

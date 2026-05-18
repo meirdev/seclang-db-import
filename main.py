@@ -6,6 +6,25 @@ from typing import Iterator, NotRequired, TypedDict
 
 import msc_pyparser
 
+CRS_SCORE_VARS = {
+    "tx.inbound_anomaly_score_pl1",
+    "tx.inbound_anomaly_score_pl2",
+    "tx.inbound_anomaly_score_pl3",
+    "tx.inbound_anomaly_score_pl4",
+    "tx.outbound_anomaly_score_pl1",
+    "tx.outbound_anomaly_score_pl2",
+    "tx.outbound_anomaly_score_pl3",
+    "tx.outbound_anomaly_score_pl4",
+    "tx.sql_injection_score",
+    "tx.xss_score",
+    "tx.rfi_score",
+    "tx.lfi_score",
+    "tx.rce_score",
+    "tx.php_injection_score",
+    "tx.http_violation_score",
+    "tx.session_fixation_score",
+}
+
 DISRUPTIVE_ACTIONS = {
     "deny",
     "drop",
@@ -78,6 +97,7 @@ class Rule(TypedDict):
     revision: str | None
     paranoia_level: int | None
     tags: list[str]
+    setvars: dict[str, str]
 
 
 def get_arg_value(d: dict[int, str], arg: str) -> str:
@@ -124,6 +144,7 @@ def extract_rule(
         "revision": None,
         "paranoia_level": None,
         "tags": [],
+        "setvars": {},
     }
 
     for action in config.get("actions", []):
@@ -152,6 +173,16 @@ def extract_rule(
             rule["accuracy"] = int(arg)
         elif name == "rev":
             rule["revision"] = arg
+
+    for cfg in (config, *chain_children):
+        for action in cfg.get("actions", []):
+            if action["act_name"] != "setvar":
+                continue
+
+            var = action.get("act_arg", "").lower()
+            var_name, var_value = var.split("=", 2)
+            if var_name in CRS_SCORE_VARS:
+                rule["setvars"][var_name] = var_value
 
     return rule
 
